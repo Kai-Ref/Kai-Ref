@@ -16,8 +16,11 @@
 
 ### :man_technologist: About Me :
 
-  I am a Student in the field of industrial engineering
+  I am a Student at the University Mannheim in the field of Data Science, in addition:
+
   - ⚡: I’ve had an Intership at ICIS working as a Student Data Scientist - EU Power Markets.
+
+- 🎓 I worked as a Student Researcher, while I prepared my Bachelor's Thesis (See the repository about DeepAR)
 
 - 🔌: I'm really interested in Data Science and other programming Projects, which I display here.
 
