@@ -1,30 +1,28 @@
 
 <div id ="header" align = "center">
   <img src ="https://media.giphy.com/media/mQ2tRDCtU3o7C/giphy.gif" width ="480"/>
+<!---
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kai-reffert-ba880821b/">
+  <a href="https://www.linkedin.com/in/kai-reffert/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </div>
+-->
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   </h1>
 </div> 
-
+<!---
 ---
+-->
 
-### :man_technologist: About Me :
+I am a highly motivated Data Science student at University Mannheim with practical experiences in developing modelling pipelines and real-time forecasts. During my internship at ICIS, I worked on developing an OTC Backtesting statistic for the company website and created and maintained multiple classification algorithms for European power markets. Following this, I then successfully developed and analyzed a DeepAR pipeline in an Infectious Disease Forecasting environment as a Student Research Assistant at the Karlsruher Institute of Technology. Some of my projects were about:
 
-  I am a Student at the University Mannheim in the field of Data Science, in addition:
-
-  - ⚡: I’ve had an Intership at ICIS working as a Student Data Scientist - EU Power Markets.
-
-- 🎓 I worked as a Student Researcher, while I prepared my Bachelor's Thesis (See the repository about DeepAR)
-
-- 🔌: I'm really interested in Data Science and other programming Projects, which I display here.
-
-- ⚽: In my free time, I like to play sports like Basketball or Football.
+- 🦠: Probabilistic Time Series Forecasting utilizing Amazon's DeepAR model in an Infectious Disease Forecasting environment (Repository: [DeepAR_InfluenzaForecast](https://github.com/Kai-Ref/DeepAR_InfluenzaForecast))
+- ⚡: Binary Classification pipeline with the sklearn framework for an EU Power market price equality forecast 
+- ⚽: Webscraping Transfermarkt.com for football player and team data (Repository: [Transfermarkt Webscraping](https://github.com/Kai-Ref/footy))
+- 📈: Analysis of the Feature Selection properties of LASSO and Ridge regression during a Bachelor's seminar (Repository: [Feature Selection in Regression Tasks](https://github.com/Kai-Ref/Feature-Selection-in-Regression-Tasks))
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kai-reffert-ba880821b/)
 ---
