@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/mQ2tRDCtU3o7C/giphy.gif" width="480" />
+  <img src="https://tse2.mm.bing.net/th/id/OIP.fU-ZhPgLM7vwXSoCumAcywHaHa?pid=Api" height="180" />
+  <img src="https://www.uni-mannheim.de/media/_processed_/9/a/csm_08_UM_SIGNET_DE_RGB-01_781d69a346.jpg" height="180" />
+  <img src="https://tse2.mm.bing.net/th/id/OIP.mcAMU0jVxZCQnpRZ7CD5hwAAAA?pid=Api" height="180" />
+  <img src="https://tse2.mm.bing.net/th/id/OIP.Ofi9KJBBEe2I0azNZAs0BQHaHa?r=0&pid=Api" height="180" />
+
+
   
   <h1>
     Hey there! 
